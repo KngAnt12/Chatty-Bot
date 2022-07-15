@@ -3,7 +3,7 @@
 
 Project description: Creating a Simple Chat Bot in Java
 
-these are the functions I have implemented
+These are the functions I have implemented
 
 Greet
 The bot Greets the user and tells its name and when it was created.
