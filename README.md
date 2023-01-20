@@ -1,4 +1,4 @@
-# Chatty-Bot
+Chat Bot
 
 
 Project description: Creating a Simple Chat Bot in Java
